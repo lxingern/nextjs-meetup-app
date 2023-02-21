@@ -1,4 +1,3 @@
-import { Fragment } from 'react'
 import MeetupDetail from '../../components/meetups/MeetupDetail'
 
 function MeetupDetails() {
